@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="img.gif"/>
+  [url=https://mynickname.com/id1830826][img]https://mynickname.com/forum6t9/RealTakosan.gif[/img][/url] 
 </p>
 
 <div align="center">
