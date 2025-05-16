@@ -4,5 +4,5 @@
 </p>
 
 <div align="center">
-  # Empty, nothing to see here.
+  <h1>Empty, nothing to see here.</h1>
 </div>
