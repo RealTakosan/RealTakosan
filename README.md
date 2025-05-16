@@ -3,6 +3,6 @@
   <img src="img.gif"/>
 </p>
 
-<p align="center">
-  <h1>Empty, nothing to see here. </h1>
-</p>
+<div align="center">
+  # Empty, nothing to see here.
+</div>
